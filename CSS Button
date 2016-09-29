@@ -1,0 +1,53 @@
+___________________________________
+RED BUTTONS
+___________________________________
+
+<head>
+<style>
+.redbutton {
+    background-color: #ff0000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+</style>
+</head>
+
+
+
+<button class="redbutton">Button</button>
+
+
+<a href="www.example.com" class="redbutton">Linked Button</a>
+
+___________________________________
+BLACK BUTTONS
+___________________________________
+
+<head>
+<style>
+.blackbutton {
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+</style>
+</head>
+
+<button class="blackbutton">Button</button>
+
+
+<a href="www.example.com" class="blackbutton">Linked Button</a>
